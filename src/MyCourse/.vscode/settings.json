@@ -1,0 +1,11 @@
+{
+    "emmet.includeLanguages": { "aspnetcorerazor": "html"},
+    "LiveReload": {
+        "LiveReloadEnabled": true,
+        "ClientFileExtensions": ".cshtml,.razor,.css,.js,.htm,.html,.txt",
+        "ServerRefreshTimeout": 3000,
+        "WebSocketUrl": "/__livereload",
+        "WebSocketHost": "wss://localhost:5001",
+        "FolderToMonitor": "~/"
+      }
+}
